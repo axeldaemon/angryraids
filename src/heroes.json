@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Clause",
+    "title": "Knight of Iron Defense",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 355,
+    "uniqueWeapon": "The Guardian, Exian",
+    "classId": 1,
+    "id": 1
+  },
+  {
+    "name": "Demia",
+    "title": "Fortress of Steel",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 355,
+    "uniqueWeapon": "The Blue Light, Arpheus",
+    "classId": 1,
+    "id": 2
+  },
+  {
+    "name": "Phillop",
+    "title": "King of Dwarves",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 355,
+    "uniqueWeapon": "Dragon's Ruins, Atein",
+    "classId": 1,
+    "id": 3
+  },
+  {
+    "name": "Morrah",
+    "title": "Devil's Flame",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 355,
+    "uniqueWeapon": "Flame of Victory, Carprain",
+    "classId": 1,
+    "id": 4
+  },
+  {
+    "name": "Jane",
+    "title": "Alabaster Corpse",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 355,
+    "uniqueWeapon": "Unchanging Mind, Erekura",
+    "classId": 1,
+    "id": 5
+  },
+  {
+    "name": "Ricardo",
+    "title": "Lua's Judgement",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 355,
+    "uniqueWeapon": "Light of Judgment, Theoria",
+    "classId": 1,
+    "id": 6
+  },
+  {
+    "name": "Kasel",
+    "title": "Warrior of the Holy Sword",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 384,
+    "uniqueWeapon": "The Holy Sword, Aea",
+    "classId": 2,
+    "id": 7
+  },
+  {
+    "name": "Gau",
+    "title": "Barbarian of Frozen Lands",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 384,
+    "uniqueWeapon": "Holy Bird, Numinu",
+    "classId": 2,
+    "id": 8
+  },
+  {
+    "name": "Naila",
+    "title": "Wind's Fighter",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 384,
+    "uniqueWeapon": "Cursed Claws, Baroro",
+    "classId": 2,
+    "id": 9
+  },
+  {
+    "name": "Priscilla",
+    "title": "Maid of Steel",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 384,
+    "uniqueWeapon": "Tumultuous Dance, Excilius",
+    "classId": 2,
+    "id": 10
+  },
+  {
+    "name": "Viska",
+    "title": "Demon Eater",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 384,
+    "uniqueWeapon": "Nightmare Fang, Kitrax",
+    "classId": 2,
+    "id": 11
+  },
+  {
+    "name": "Roi",
+    "title": "Swift Assassin",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 418,
+    "uniqueWeapon": "Specter's Breath, Redeal",
+    "classId": 3,
+    "id": 12
+  },
+  {
+    "name": "Reina",
+    "title": "Lightning Flash",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 418,
+    "uniqueWeapon": "Lightning Flash, Livatis",
+    "classId": 3,
+    "id": 13
+  },
+  {
+    "name": "Fluss",
+    "title": "Fluttering Blade",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 418,
+    "uniqueWeapon": "Twinswords of Fury, Veralta",
+    "classId": 3,
+    "id": 14
+  },
+  {
+    "name": "Tanya",
+    "title": "The Silencing Blade",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 418,
+    "uniqueWeapon": "Demon of the Calm, Caethasis",
+    "classId": 3,
+    "id": 15
+  },
+  {
+    "name": "Epis",
+    "title": "Captivating Demon",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 418,
+    "uniqueWeapon": "The Seductress, Guillotine",
+    "classId": 3,
+    "id": 16
+  },
+  {
+    "name": "Selene",
+    "title": "Wind-piercing arrow",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 547,
+    "uniqueWeapon": "Green Winds, Notos",
+    "classId": 4,
+    "id": 17
+  },
+  {
+    "name": "Yanne",
+    "title": "Dragon Slayer",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 547,
+    "uniqueWeapon": "Dragonbane, Svelta",
+    "classId": 4,
+    "id": 18
+  },
+  {
+    "name": "Dimael",
+    "title": "Shadow Edgy Hunter",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 547,
+    "uniqueWeapon": "Tears of the Moon, Nerius",
+    "classId": 4,
+    "id": 19
+  },
+  {
+    "name": "Luna",
+    "title": "Child of Moonlight",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 547,
+    "uniqueWeapon": "Flower of Eternity, Hyacinth",
+    "classId": 4,
+    "id": 20
+  },
+  {
+    "name": "Arch",
+    "title": "Arrow of Purity",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 547,
+    "uniqueWeapon": "Clear Blue Sky, Sherrkyle",
+    "classId": 4,
+    "id": 21
+  },
+  {
+    "name": "Cleo",
+    "title": "Sorceress of Purgatory",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Primal Flame, Flenos",
+    "classId": 5,
+    "id": 22
+  },
+  {
+    "name": "Pavel",
+    "title": "Wizard of Ice Dragon",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Dragon Hearts, Andarta Andraste",
+    "classId": 5,
+    "id": 23
+  },
+  {
+    "name": "Maria",
+    "title": "Fallen Witch",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Lea's Messenger, Cocytus",
+    "classId": 5,
+    "id": 24
+  },
+  {
+    "name": "Lorraine",
+    "title": "Grand Elidoran Scholar",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "",
+    "classId": 5,
+    "id": 25
+  },
+  {
+    "name": "Aisha",
+    "title": "The Violet Princess",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Noble Fate, Mahitra",
+    "classId": 5,
+    "id": 26
+  },
+  {
+    "name": "Lewisia",
+    "title": "The Royal Vermilion Blood",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Scarlet Ruler, Dominicia",
+    "classId": 5,
+    "id": 27
+  },
+  {
+    "name": "Nyx",
+    "title": "Dimension Cleaver",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Dimensional Key, Magnus Fille",
+    "classId": 5,
+    "id": 28
+  },
+  {
+    "name": "Rodina",
+    "title": "Blizzard's Sniper",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 499,
+    "uniqueWeapon": "Rodina Custom Rifle Mod.0",
+    "classId": 6,
+    "id": 29
+  },
+  {
+    "name": "Lakrak",
+    "title": "Hunter of the Hand Cannon",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 499,
+    "uniqueWeapon": "Lakrak MK-1",
+    "classId": 6,
+    "id": 30
+  },
+  {
+    "name": "Miruru",
+    "title": "Cursed Pirate Empress",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 499,
+    "uniqueWeapon": "Ultimate Weapon, Leviathan",
+    "classId": 6,
+    "id": 31
+  },
+  {
+    "name": "Annette",
+    "title": "Royal Technomagi",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 499,
+    "uniqueWeapon": "Crystallized Technomagic, Rascal",
+    "classId": 6,
+    "id": 32
+  },
+  {
+    "name": "Mitra",
+    "title": "The Silver Battle Wolf",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 499,
+    "uniqueWeapon": "Roar of Madness, Velkinoth",
+    "classId": 6,
+    "id": 33
+  },
+  {
+    "name": "Oddy",
+    "title": "Clocksmith of Eternal Life",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 499,
+    "uniqueWeapon": "Moonshade Countdown, Tempodiana",
+    "classId": 6,
+    "id": 34
+  },
+  {
+    "name": "Frey",
+    "title": "Priestess of Light",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "God's Authority, Rosmerta",
+    "classId": 7,
+    "id": 35
+  },
+  {
+    "name": "Kaulah",
+    "title": "Shaman of Lightning",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "The Bluewind, Coventina",
+    "classId": 7,
+    "id": 36
+  },
+  {
+    "name": "Rephy",
+    "title": "Spiritual Guide",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "God's Lamp, Kurulati",
+    "classId": 7,
+    "id": 37
+  },
+  {
+    "name": "Laias",
+    "title": "Holy Priestess of Water",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Flowing Circle, Eltoirre",
+    "classId": 7,
+    "id": 38
+  },
+  {
+    "name": "Baudouin",
+    "title": "Holy Ruffian",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "God's Book, Genesis",
+    "classId": 7,
+    "id": 39
+  },
+  {
+    "name": "Leo",
+    "title": "Eternal Scribe",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Phoenix Quill, Belisa",
+    "classId": 7,
+    "id": 40
+  },
+  {
+    "name": "May",
+    "title": "The Girl Dreaming of Riches",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "The Box of Fragrance, Etelia",
+    "classId": 7,
+    "id": 41
+  },
+  {
+    "name": "Cassandra",
+    "title": "Tempting Winds",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Aurelian Whisper, Goldbreeze",
+    "classId": 7,
+    "id": 42
+  },
+  {
+    "name": "Gladi",
+    "title": "Beast of the Arena",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 418,
+    "uniqueWeapon": "Beast Fist, Mastra",
+    "classId": 3,
+    "id": 43
+  },
+  {
+    "name": "Theo",
+    "title": "Knight of Loyalty",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 384,
+    "uniqueWeapon": "Lightning Bolt, Legios",
+    "classId": 2,
+    "id": 44
+  },
+  {
+    "name": "Mediana",
+    "title": "The Dangerous Doctor",
+    "damageType": "Physical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Merciful Threat, Phistonia",
+    "classId": 7,
+    "id": 45
+  },
+  {
+    "name": "Artemia",
+    "title": "Empress of Light",
+    "damageType": "Magical",
+    "manaAtk": 0,
+    "uniqueBaseAtk": 510,
+    "uniqueWeapon": "Merciful Threat, Phistonia",
+    "classId": 5,
+    "id": 46
+  }
+]
